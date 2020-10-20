@@ -55,7 +55,7 @@ class _SignUpState extends State<SignUp> {
                     SizedBox(
                       height: 130,
                       child: Image.asset(
-                        'assets/images/otp.png',
+                        'assets/otp.png',
                       ),
                     ),
                     Padding(padding: EdgeInsets.symmetric(vertical: 14, horizontal: 64),
